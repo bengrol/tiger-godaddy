@@ -1,1 +1,5 @@
 /vendor
+/sites
+.DS_Store
+.idea/
+
